@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita </h1>
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2331CBF7&size=25&center=true&vCenter=true&multiline=true&width=600&height=200&lines=I'm+Full-Stack+developer;Based+on+.NET;Sometimes+coding+on++JavaScript;Loves+React%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
-</p>
+
   <!--
 **Vasilkoov/Vasilkoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
